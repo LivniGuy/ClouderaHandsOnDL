@@ -38,11 +38,11 @@ Spanish manuals:
 -->
 
 ## CML github repo url  
-https://github.com/campossalex/TelcoChurn
+https://github.com/LivniGuy/TelcoChurn
 
 ## Configurations:  
 
-### ChurnScore Expression:  
+### ChurnScore Expression - To be used in Lab 5:  
 
 cviz_rest('{"url":"<workspace_url>","accessKey":"<access_key>","colnames":["monthlycharges","totalcharges","tenure","gender","dependents","onlinesecurity","multiplelines","internetservice","seniorcitizen","techsupport", "contract","streamingmovies", "deviceprotection", "paymentmethod","streamingtv","phoneservice", "paperlessbilling","partner", "onlinebackup"],"response_colname":"result"}')
 
