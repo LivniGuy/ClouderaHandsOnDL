@@ -1411,7 +1411,7 @@
                     "description": "",
                     "sensitive": false,
                     "provided": false,
-                    "value": "kafka-cluster-corebroker2.ps-sandb.a465-9q4k.cloudera.site:9093, kafka-cluster-corebroker1.ps-sandb.a465-9q4k.cloudera.site:9093, kafka-cluster-corebroker0.ps-sandb.a465-9q4k.cloudera.site:9093"
+                    "value": "il-kafka-corebroker2.il-works.yovj-8g7d.cloudera.site:9093, il-kafka-corebroker1.il-works.yovj-8g7d.cloudera.site:9093, il-kafka-corebroker0.il-works.yovj-8g7d.cloudera.site:9093"
                 },
                 {
                     "name": "Kafka Consumer Group Id",
